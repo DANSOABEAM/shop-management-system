@@ -1,0 +1,86 @@
+body{
+   
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f4f4f4;
+}
+
+input{
+    margin: 15px;
+    width: 80%;
+    height: 4vh;
+    background: transparent;
+    border: 0px;
+    border-bottom: 1px solid rgba(255, 0, 0, 0.655);
+   
+}
+
+.container{
+    width: 50%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.btn{
+    height: 5vh;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border: 0px;
+    border-bottom: 1px solid rgb(243, 18, 18);
+    cursor: pointer;
+    width: 82%;
+}
+.btn:hover{
+    background-color: rgba(0, 128, 0, 0.969);
+}
+
+img{
+    width: 30%;
+    height: 50vh;
+    margin-left: 5%;
+    margin-top: 8%;
+}
+h4{
+    text-align: center;
+    margin-right: 7%;
+    font-size: 20px;
+  
+}
+
+
+.inputs{
+    width: 70%;
+   
+    height: 5vh;
+    margin-left: 20%;
+    border: 0px;
+    border-bottom: 1px solid red;
+}
+.form-container{
+   margin-top: -5%;
+    width: 70%;
+}
+
+label{
+    margin-left: 20%;
+}
+
+.btn2{
+    margin-left: 20%;
+    height: 5vh;
+    background-color: rgba(255, 0, 0, 0.711);
+    color: white;
+    border: 0px;
+    border-bottom: 1px solid rgba(251, 2, 2, 0.714);
+    cursor: pointer;
+    width: 70%;
+}
+
+h6{
+    text-align: center;
+    color: GREEN;
+}

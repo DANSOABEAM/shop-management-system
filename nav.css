@@ -1,0 +1,27 @@
+ul{
+    background-color: rgba(255, 0, 0, 0.698);
+  
+   padding: 10px;
+    margin-top: 2%;
+
+  
+}
+
+li{
+    margin: auto;
+    padding: 15px;
+    font-size: 16px;
+    list-style: none;
+}
+
+a{
+   
+    text-decoration: none;
+    color: white;
+
+}
+
+li :hover{
+   background-color: rgba(250, 235, 215, 0.513);
+    color: black;
+}
